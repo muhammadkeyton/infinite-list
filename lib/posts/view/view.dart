@@ -1,0 +1,1 @@
+export './posts_list_page.dart';
